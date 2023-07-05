@@ -1,6 +1,6 @@
 {
   "PDF_QR_PICKUP": "https://wms.boxme.asia/api/pickup/b2b/qr/",
-  "API_AUTH": "https://wms.boxme.asia/api/auth/login/",
+  "API_AUTH_": "https://wms.boxme.asia/api/auth/login/",
   "API_STAFF_UPDATE": "https://wms.boxme.asia/api/auth/update/",
   "API_HANDOVER": "https://wms.boxme.asia/api/packed/packed/",
   "API_REPORT_PRODUCT": "https://wms.boxme.asia/api/reports/inventory-summary/",
