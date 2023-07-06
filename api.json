@@ -23,7 +23,7 @@
   "API_LIST_HANDOVER": "https://wms.boxme.asia/api/handover/list",
   "API_LIST_RMA": "https://wms.boxme.asia/api/rma/list/",
   "API_CREATE_HANDOVER": "https://wms.boxme.asia/api/app/dispatched/create/",
-  "API_LIST_COURRIER": "https://wms.boxme.asia/api/app/dispatched/courier/",
+  "API_LIST_COURRIER_": "https://wms.boxme.asia/api/app/dispatched/courier/",
   "API_B2B_HANDOVER_CHECK": "https://wms.boxme.asia/api/app/dispatched/b2b/",
   "API_LIST_PICKUP": "https://wms.boxme.asia/api/app/pickup/list/",
   "API_DETAIL_DETAIL_PICKUP": "https://wms.boxme.asia/api/app/pickup/detail/",
