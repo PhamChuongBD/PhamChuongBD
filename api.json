@@ -25,7 +25,7 @@
   "API_CREATE_HANDOVER": "https://wms.boxme.asia/api/app/dispatched/create/",
   "API_LIST_COURRIER": "https://wms.boxme.asia/api/app/dispatched/courier/",
   "API_B2B_HANDOVER_CHECK": "https://wms.boxme.asia/api/app/dispatched/b2b/",
-  "API_LIST_PICKUP": "https://wms.boxme.asia/api/app/pickup/list/",
+  "API_LIST_PICKUP_": "https://wms.boxme.asia/api/app/pickup/list/",
   "API_DETAIL_DETAIL_PICKUP": "https://wms.boxme.asia/api/app/pickup/detail/",
   "API_DETAIL_BIN_PICKUP": "https://wms.boxme.asia/api/app/pickup/bin/",
   "API_UPLOAD_IMAGES": "https://wms.boxme.asia/api/purchase-orders/upload_photo/",
