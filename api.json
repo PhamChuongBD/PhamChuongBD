@@ -37,7 +37,7 @@
   "API_ROLLBACK_BIN": "https://wms.boxme.asia/api/app/pickup/rollback/",
   "API_APPROVED_OB": "https://wms.boxme.asia/api/handover/approved/",
   "API_JOURNEY_ORDER": "https://wms.boxme.asia/api/reports/journey/",
-  "API_RECEIVED_SHIPMENT_": "https://wms.boxme.asia/api/purchase-orders/detail/",
+  "API_RECEIVED_SHIPMENT": "https://wms.boxme.asia/api/purchase-orders/detail/",
   "API_DETAIL_OB": "https://wms.boxme.asia/api/handover/ob/",
   "API_REMOVE_TRACKING_OB": "https://wms.boxme.asia/api/handover/remove/",
   "API_STAFF_PACKED": "https://wms.boxme.asia/api/pickup/staff",
