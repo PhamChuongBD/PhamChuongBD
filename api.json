@@ -7,7 +7,7 @@
   "API_REPORT_ORDERS": "https://wms.boxme.asia/api/reports/orders/",
   "API_REPORT_SHIPMENT": "https://wms.boxme.asia/api/purchase-orders/list/",
   "API_REPORT_STAFF": "https://wms.boxme.asia/api/reports/staff/",
-  "API_REPORT_OVERVIEW": "https://wms.boxme.asia/api/reports/overview/",
+  "API_REPORT_OVERVIEW_D": "https://wms.boxme.asia/api/reports/overview/",
   "API_REPORT_POT": "https://wms.boxme.asia/api/reports/sla/",
   "API_REPORT_TEAM_INDBOUND": "https://wms.boxme.asia/api/reports/team-rp-ib/",
   "API_REPORT_TEAM_OUTBOUND": "https://wms.boxme.asia/api/reports/team-rp-pack/",
