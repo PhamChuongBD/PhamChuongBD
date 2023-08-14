@@ -28,7 +28,7 @@
   "API_LIST_PICKUP": "https://wms.boxme.asia/api/app/pickup/list/",
   "API_DETAIL_DETAIL_PICKUP": "https://wms.boxme.asia/api/app/pickup/detail/",
   "API_DETAIL_BIN_PICKUP": "https://wms.boxme.asia/api/app/pickup/bin/",
-  "API_UPLOAD_IMAGES": "https://wms.boxme.asia/api/purchase-orders/upload_photo/",
+  "API_UPLOAD_IMAGES_": "https://wms.boxme.asia/api/purchase-orders/upload_photo/",
   "API_REPORT_ORDER_OUTBOUND": "https://wms.boxme.asia/api/reports/outbound-summary/",
   "API_REPORT_ORDER_KPI": "https://wms.boxme.asia/api/pickup/order/",
   "API_ORDER_EXCEPTION": "https://wms.boxme.asia/api/app/pickup/exception/",
