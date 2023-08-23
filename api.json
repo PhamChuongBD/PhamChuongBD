@@ -68,7 +68,7 @@
   "API_REPORT_ANALYSIS_INBOUND": "https://wms.boxme.asia/api/reports/putaway/v1",
   "API_REPORT_ANALYSIS_FF_NOW": "https://wms.boxme.asia/api/reports/ff-now/v1",
   "API_FIND_ZONE": "https://wms.boxme.asia/api/bin/list",
-  "API_PICKUP_LOG_": "https://wms.boxme.asia/api/app/pickup/error/",
+  "API_PICKUP_LOG": "https://wms.boxme.asia/api/app/pickup/error/",
   "API_STAFF_LIST": "https://wms.boxme.asia/api/auth/list/",
   "API_ADD_TASK": "https://wms.boxme.asia/api/task/create/",
   "API_LIST_TASKS": "https://wms.boxme.asia/api/task/list/",
